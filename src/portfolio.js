@@ -23,7 +23,7 @@ const projects = [
   {
     name: 'Crypto-Tycoon',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+      'A clicker crypto game that converts your virtual Dodgecoin into virtual USD. Which is then used to build a virtual computer.',
     stack: ['HTML5', 'CSS', 'React.js', 'JavaScript'],
     sourceCode: 'https://github.com/AnthonySzymczak/Crypto-Tycoon',
     livePreview: 'https://anthonyszymczak.github.io/Crypto-Tycoon/',
@@ -31,7 +31,7 @@ const projects = [
   {
     name: 'PokeDecks',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+      'PokeDecks is an app where you can view, store, and choose some of your favorite pokemon cards.',
     stack: ['Java 8', 'TypeScript', 'React', 'Spring Boot'],
     sourceCode: 'https://github.com/Raevyn0/Project2-UI',
     livePreview: 'https://github.com',
@@ -52,8 +52,23 @@ const projects = [
     sourceCode: 'https://github.com/AnthonySzymczak/Cocktail-Dreamer',
     livePreview: 'https://cocktail-dreamer.herokuapp.com/',
   },
-
-
+  {
+    name: 'Photo Port',
+    description:
+      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+    stack: ['JavaScript', 'Node.js', 'React.js'],
+    sourceCode: 'https://github.com/isaachrr4/photo-port',
+    livePreview: 'https://isaachrr4.github.io/photo-port/',
+  },
+  {
+    name: 'Foodie-Fest',
+    description:
+      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+    stack: ['JavaScript', 'HTML5', 'CSS', 'Webpack'],
+    sourceCode: 'https://github.com/isaachrr4/foodie-fest',
+    livePreview: 'https://isaachrr4.github.io/foodie-fest/',
+  },
+  
 ]
 
 const skills = [
