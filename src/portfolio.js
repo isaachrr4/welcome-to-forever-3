@@ -33,17 +33,27 @@ const projects = [
     description:
       'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
     stack: ['Java 8', 'TypeScript', 'React', 'Spring Boot'],
-    sourceCode: 'https://github.com',
+    sourceCode: 'https://github.com/Raevyn0/Project2-UI',
     livePreview: 'https://github.com',
   },
   {
-    name: 'Project 3',
+    name: 'Expense Reimbursement',
     description:
       'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
+    stack: ['Java 8', 'Docker', 'servlet API v4'],
+    sourceCode: 'https://github.com/220509-web-dev/psychic-potato-Isaac',
     livePreview: 'https://github.com',
   },
+  {
+    name: 'Cocktail-Dreamers',
+    description:
+      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+    stack: ['JavaScript', 'GraphQL', 'React.js'],
+    sourceCode: 'https://github.com/AnthonySzymczak/Cocktail-Dreamer',
+    livePreview: 'https://cocktail-dreamer.herokuapp.com/',
+  },
+
+
 ]
 
 const skills = [
@@ -63,7 +73,14 @@ const skills = [
   'Spring Boot',
   'Java 8',
   'AWS EC2',
-  'AWS S3'
+  'AWS S3',
+  'Python',
+  'Docker',
+  'Apache Maven',
+  'PostgreSQL',
+  'MySQL',
+  'Node.js',
+  'RDBS'
 ]
 
 const contact = {
