@@ -9,7 +9,7 @@ const about = {
   name: 'Isaac Harris',
   role: 'Full Stack Developer',
   description:
-    'I am a Junior Full Stack Developer with a strong passion for technology. I love playing video games, watching movies and anime. I am also a huge Star Wars amd comic book nerd! I believe technology is the future and it is one of my true passions in life. I love to code, build projects and make memories and friends along the way. I enjoy learning new skills and technologies because in this field the learning never stops and hoenstly thats the best part about it.',
+    'I am a Junior Full Stack Developer with a strong passion for technology. I love playing video games, watching movies and anime. I am also a huge Star Wars amd comic book nerd! I believe technology is the future and it is one of my true passions in life. I love to code, build projects and make memories and friends along the way. I enjoy learning new skills and technologies because in this field the learning never stops and honestly thats the best part about it.',
   resume: 'https://drive.google.com/file/d/1CvuAP8yW6ZFqvtmjOHxyy46P75aHV5uP/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/isaac-harris-608644209',
