@@ -9,7 +9,7 @@ const about = {
   name: 'Isaac Harris',
   role: 'Full Stack Developer',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
+    'I am a Junior Full Stack Developer with a strong passion for technology. I love playing video games, watching movies and anime. I am also a huge Star Wars amd comic book nerd! I believe technology is the future and it is one of my true passions in life. I love to code, build projects and make memories and friends along the way. I enjoy learning new skills and technologies because in this field the learning never stops and hoenstly thats the best part about it.',
   resume: 'https://drive.google.com/file/d/1CvuAP8yW6ZFqvtmjOHxyy46P75aHV5uP/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/isaac-harris-608644209',
@@ -39,7 +39,7 @@ const projects = [
   {
     name: 'Expense Reimbursement',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+      'This is an application that is used to help you find employees within the database and it also helps manage the process of reimbursing employees for expenses incurred while on companyt time',
     stack: ['Java 8', 'Docker', 'servlet API v4'],
     sourceCode: 'https://github.com/220509-web-dev/psychic-potato-Isaac',
     livePreview: 'https://github.com',
@@ -47,7 +47,7 @@ const projects = [
   {
     name: 'Cocktail-Dreamers',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+      'Cocktail-Dreamer is an application that allows bartenders to view cocktail recipes as well as adding some of their own if they choose.',
     stack: ['JavaScript', 'GraphQL', 'React.js'],
     sourceCode: 'https://github.com/AnthonySzymczak/Cocktail-Dreamer',
     livePreview: 'https://cocktail-dreamer.herokuapp.com/',
@@ -55,7 +55,7 @@ const projects = [
   {
     name: 'Photo Port',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+      'This is a simple react app that is used to store and display photographers photos for people to view and emjoy at their leisure',
     stack: ['JavaScript', 'Node.js', 'React.js'],
     sourceCode: 'https://github.com/isaachrr4/photo-port',
     livePreview: 'https://isaachrr4.github.io/photo-port/',
@@ -63,7 +63,7 @@ const projects = [
   {
     name: 'Foodie-Fest',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+      'this is an app that was designed for a food event. It allows you to sign up to schedule events and purchase tickets for those events as well. It also provides a schedule so you know which events are happening.',
     stack: ['JavaScript', 'HTML5', 'CSS', 'Webpack'],
     sourceCode: 'https://github.com/isaachrr4/foodie-fest',
     livePreview: 'https://isaachrr4.github.io/foodie-fest/',
