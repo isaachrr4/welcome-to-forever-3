@@ -45,12 +45,12 @@ const projects = [
     livePreview: 'https://github.com',
   },
   {
-    name: 'Cocktail-Dreamers',
+    name: 'Run Buddy',
     description:
-      'Cocktail-Dreamer is an application that allows bartenders to view cocktail recipes as well as adding some of their own if they choose.',
-    stack: ['JavaScript', 'GraphQL', 'React.js'],
-    sourceCode: 'https://github.com/AnthonySzymczak/Cocktail-Dreamer',
-    livePreview: 'https://cocktail-dreamer.herokuapp.com/',
+      'Run Buddy is a site where you can sign up for a personal trainer',
+    stack: ['HTML', 'CSS'],
+    sourceCode: 'https://github.com/isaachrr4/run-buddy',
+    livePreview: 'https://isaachrr4.github.io/run-buddy/',
   },
   {
     name: 'Photo Port',
@@ -68,6 +68,26 @@ const projects = [
     sourceCode: 'https://github.com/isaachrr4/foodie-fest',
     livePreview: 'https://isaachrr4.github.io/foodie-fest/',
   },
+  {
+    name:'Taskinator',
+    description: 'A simple web application that allows you to record and trak your tasks for the day!',
+    stack: ['JavaScript', 'HTML5', 'CSS'],
+    sourceCode:'https://github.com/isaachrr4/taskinator',
+    livePreview:'https://isaachrr4.github.io/taskinator/'
+  },
+  {
+    name:'Star-Society',
+    description: 'A Social network api that allows you to create a user and add thoughts and reactions for that user.',
+    stack: ['JavaScript', 'MongoDB'],
+    sourceCode:'https://github.com/isaachrr4/star-society'
+
+  },
+  {
+    name: 'Employee Database',
+    description: 'a noide app that runs in the terminal and it pulls and displays data from its connected database that stores employee information',
+    stack: ['SQL', 'JavaScript'],
+    sourceCode: 'https://github.com/isaachrr4/employee-database'
+  }
   
 ]
 
